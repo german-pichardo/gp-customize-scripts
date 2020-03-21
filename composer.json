@@ -1,0 +1,19 @@
+{
+  "name": "gp/gp-customize-scripts",
+  "description": "Add custom scripts in head, body and footer using wp customizer",
+  "keywords": ["wordpress", "plugin", "gp", "customizer"],
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "German Pichardo"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/german-pichardo/gp-customize-scripts"
+  },
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "^1.0"
+  }
+}
